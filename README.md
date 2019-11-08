@@ -19,4 +19,12 @@
 1、FixedCapacityStackOfStrings: 只支持字符串类型的定容栈；
 
 2、FixedCapacityStack： 定容栈的泛型实现；
+* 支持动态改变大小；
+* 支持迭代；
+
+3、Stack: 使用链表实现的下压堆栈（FIFO）
+
+4、Queue：使用链表实现的队列(FILO)
+
+5、Bag: 使用链表实现背包
 
